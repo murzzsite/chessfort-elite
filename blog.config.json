@@ -1,0 +1,40 @@
+{
+  "siteName": "CHESSFORT",
+  "siteUrl": "https://murzzsite.github.io/chessfort-elite",
+  "lang": "ru",
+  "repo": "murzzsite/chessfort-elite",
+  "ref": "7RQP7Z58AG",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи о покупке новостроек бизнес- и премиум-класса в Петербурге",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Команда CHESSFORT",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте заявку — разберём вашу ситуацию и подскажем следующий шаг.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#contact",
+  "disclaimer": "Материал носит информационный характер и не является публичной офертой или индивидуальной инвестиционной рекомендацией. Условия, цены и сроки зависят от конкретного объекта и застройщика, уточняйте их у брокера.",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/",
+    "/privacy.html"
+  ],
+  "indexNowKey": "8bcae2ef8b96af05b486cc735e74e408",
+  "previewSecret": "657bca9ef0b04623",
+  "theme": {
+    "accent": "var(--clr-accent)",
+    "accent-soft": "var(--clr-accent-soft)",
+    "bg": "var(--clr-bg)",
+    "surface": "var(--clr-surface)",
+    "ink": "var(--clr-ink)",
+    "text": "var(--clr-text)",
+    "soft": "var(--clr-text-soft)",
+    "line": "var(--clr-line)"
+  }
+}

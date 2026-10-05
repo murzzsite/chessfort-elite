@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /chessfort-elite/blog/preview/
+
+Sitemap: https://murzzsite.github.io/chessfort-elite/sitemap.xml
